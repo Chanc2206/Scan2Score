@@ -1,4 +1,3 @@
-
 # Scan2Score - AI Subjective Answer Evaluation System
 
 An intelligent system for evaluating handwritten and scanned answer sheets using advanced AI technologies including Claude 3, PaddleOCR, and comprehensive plagiarism detection via GPTZero and CopyLeaks APIs.
