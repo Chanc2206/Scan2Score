@@ -229,6 +229,7 @@ For support, please:
 2. Search existing issues
 3. Create a new issue with detailed information
 <img width="1919" height="612" alt="image" src="https://github.com/user-attachments/assets/25f4bc54-c5c9-4221-8801-d5cc2ee30996" />
+"C:\Users\gs852\OneDrive\Pictures\Screenshots\Screenshot 2025-07-31 003812.png"
 
 
 
