@@ -198,11 +198,9 @@ The AI evaluator follows a structured approach:
 ### Production Considerations
 
 1. **Environment**: Set `FLASK_ENV=production`
-2. **Database**: Use MongoDB Atlas or dedicated MongoDB server
+2. **Database**: Use dedicated MongoDB server
 3. **Security**: Generate strong `SECRET_KEY`
-4. **SSL**: Enable HTTPS in production
-5. **Monitoring**: Implement logging and monitoring
-6. **Scaling**: Consider load balancing for high traffic
+
 
 
 ## 🤝 Contributing
@@ -212,14 +210,6 @@ The AI evaluator follows a structured approach:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Write comprehensive tests for new features
-- Update documentation for API changes
-- Use meaningful commit messages
-- Add type hints for new functions
 
 ## 🙏 Acknowledgments
 
@@ -238,5 +228,5 @@ For support, please:
 1. Check the documentation
 2. Search existing issues
 3. Create a new issue with detailed information
-4. Contact the development team
+
 
