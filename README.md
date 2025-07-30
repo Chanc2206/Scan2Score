@@ -228,5 +228,6 @@ For support, please:
 1. Check the documentation
 2. Search existing issues
 3. Create a new issue with detailed information
+<img width="1919" height="612" alt="image" src="https://github.com/user-attachments/assets/25f4bc54-c5c9-4221-8801-d5cc2ee30996" />
 
 
